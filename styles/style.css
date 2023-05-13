@@ -406,15 +406,9 @@
 }
 
 .footer__columns {
-  display: flex;
-}
-
-.footer__column_content_hours {
-  margin-left: auto;
-}
-
-.footer__column_content_social {
-  margin-left: 100px;
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  column-gap: 100px;
 }
 
 .footer__logo {

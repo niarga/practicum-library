@@ -1,7 +1,7 @@
 # Practicum Library
 Single-page landing site
 ___________________________
-### Technologies: 
+## Technologies: 
 - HTML
 - CSS 
 ___________________________
